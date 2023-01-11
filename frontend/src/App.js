@@ -17,16 +17,7 @@ import Project from "./components/Admin/Project";
 import Loader from "./components/Loader/Loader";
 
 function App() {
-  // const dispatch = useDispatch();
-
-  // const { isAuthenticated } = useSelector((state) => state.login);
-  // const { loading, user } = useSelector((state) => state.user);
-
-  // useEffect(() => {
-  //   dispatch(getUser());
-  //   dispatch(loadUser());
-  // }, [dispatch]);
-
+ 
   return (
     <Router>
        
